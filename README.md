@@ -14,18 +14,9 @@
 
 ### Connect with me
 
-<a href="https://linkedin.com/in/brenodamata" target="_blank"><img align="left" alt="Breno | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/brenodamata" target="_blank"><img align="left" alt="Breno | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/brenodamata" target="_blank"><img align="left" alt="Breno | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://linkedin.com/in/brenodamata" target="_blank"><img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384030.svg" />
+<a href="https://instagram.com/brenodamata" target="_blank"><img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384031.svg" />
+<a href="https://twitter.com/brenodamata" target="_blank"><img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384033.svg" />
 <a href="https://medium.com/@brenodm" target="_blank"><img align="left" alt="Breno | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <a href="https://dev.to/brenodamata" target="_blank"><img align="left" alt="dev to breno" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
 
-<br />
-<br />
-
----
-
-### Now Playing 🎧
-
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/brenodamata)
-<br/>
