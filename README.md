@@ -14,7 +14,7 @@
 
 ### Connect with me
 
-<a href="https://linkedin.com/in/brenodamata" target="_blank"><img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384030.svg" />
+<a href="https://linkedin.com/in/brenodamata" target="_blank"><img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg" />
 <a href="https://instagram.com/brenodamata" target="_blank"><img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384031.svg" />
 <a href="https://twitter.com/brenodamata" target="_blank"><img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384033.svg" />
 <a href="https://medium.com/@brenodm" target="_blank"><img align="left" alt="Breno | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
