@@ -3,14 +3,12 @@
 ### I'm Breno, currently working as a Sr Software Engineer at [Terakeet](https://terakeet.com)
 
 ---
-
-- 👨‍💻 I’m currently working on Terakeet's secreat sauce 🤫
-- 🌱 I’m currently learning VueJs 3
-- 🎞️ Cinephile in spare time
-- ⚡ Fun fact: I'm a proud cheesehead 🧀
-- 😄 Pronouns: he/him/his
-- 🥅 2021 Goals: Become proficient in VueJS
-
+_Day to day..._
+- 👨‍💻 Currently @ Terakeet
+- 💎 Ruby & RoR
+- 🌱 Learning VueJs 3 (VueJs 2 in production)
+- 🎞️ Cinephile
+- 🧀 Cheasehead
 
 ### Connect with me
 
