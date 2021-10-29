@@ -4,7 +4,7 @@
 
 ---
 _Day to day..._
-- 👨‍💻 Currently @ Terakeet
+- 👨‍💻 SSE @ Terakeet
 - 💎 Ruby & RoR
 - 🌱 Learning VueJs 3 (VueJs 2 in production)
 - 🎞️ Cinephile
